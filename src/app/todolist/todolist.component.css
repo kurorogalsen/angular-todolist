@@ -1,0 +1,6 @@
+.deadline {
+  position: absolute;
+  left: 10px;
+  top: 0px;
+  transform: translate(0%, -60%);
+}
